@@ -28,4 +28,4 @@ For more details refer to the manuscript.
 
 ### Support or Contact
 
-Having trouble with running this application? Email the corresponding author (b.Nematollahi@shirazu.ac.ir) and we’ll help you sort it out.
+Having trouble with running this application? Email the Dr. Mohammad Reza Nikoo (m.reza@squ.edu.om) and we’ll help you sort it out.
