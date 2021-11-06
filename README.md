@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Optimal Risk-Based Reservoir Outlets Designs
 
-You can use the [editor on GitHub](https://github.com/Mohammadrezanikoo/Optimal-Risk-Based-Reservoir-Outlets-Designs-/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Weir_Designer.mlapp](https://github.com/Mohammadrezanikoo/Optimal-Risk-Based-Reservoir-Outlets-Designs-) to maintain and preview the content for this application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Authors
+Banafsheh Nematollahi
+Nasser Talebbeydokhti
+Gholam Reza Rakhshandehroo
+Mohammad Reza Nikoo
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+This This repository develops a novel MATLAB® Toolbox application, entitled Release Allocation and Weir Design (RAWD), using MATLAB® App Designer, in which optimal outlets are designed for four types of outlets, including an orifice, a proportional, a rectangular, or a triangular weir located downstream of a dam reservoir for multiple flood hydrograph scenarios handling uncertainties in flood conditions by the conditional value-at-risk (CvaR) and nonlinear interval number programming (NINP) techniques, while, satisfying the downstream water demands. The utilized optimization framework in this application is developed using a non-dominated sorting genetic algorithm- II (NSGA-II) based on the CvaR and NINP risk assessment approaches applying to the outflow discharges loss from an acceptable limit using the PMF approach for allowable flood discharges specifications. In this application, the user can obtain the optimal earlier mentioned outlets designs using one of the sixteen numerical methods from a conventional decisive numerical technique, the so-called Runge-Kutta method, to solve the governing reservoir routing ordinary differential equation (ODE)s.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mohammadrezanikoo/Optimal-Risk-Based-Reservoir-Outlets-Designs-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details refer to the manuscript. 
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with running this application? Email the corresponding author (b.Nematollahi@shirazu.ac.ir) and we’ll help you sort it out.
