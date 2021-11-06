@@ -4,6 +4,17 @@ You can use the [Weir_Designer.mlapp](https://github.com/Mohammadrezanikoo/Optim
 
 ![1](https://user-images.githubusercontent.com/93337811/140618404-c5b446ca-a3da-476e-95c6-83129a2332cd.jpg)
 
+**a**: Weir Type and Decision Variables  <br /> 
+**b**: Risk Methods<br /> 
+**c**: Status<br /> 
+**d**:Population Multiplier & Generations<br /> 
+**e**: Model Inputs<br /> 
+**f**: schematic view of the outlet<br /> 
+**g**: Run <br /> 
+**h**: Results<br /> 
+**i**: Pareto<br /> 
+**j** & **k**: Figures <br /> 
+
 
 ### Authors
 Banafsheh Nematollahi; Nasser Talebbeydokhti; Gholam Reza Rakhshandehroo; Mohammad Reza Nikoo
