@@ -17,7 +17,7 @@ You can use the [Weir_Designer.mlapp](https://github.com/Mohammadrezanikoo/Optim
 
 
 ### Authors
-Banafsheh Nematollahi; Nasser Talebbeydokhti; Gholam Reza Rakhshandehroo; Mohammad Reza Nikoo
+Banafsheh Nematollahi; Nasser Talebbeydokhti; Gholam Reza Rakhshandehroo; Mohammad Reza Nikoo; Amir H Gandomi
 
 ### RAWD Application
 <div align="justify"> 
