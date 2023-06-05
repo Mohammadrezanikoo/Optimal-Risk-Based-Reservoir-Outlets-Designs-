@@ -7,9 +7,9 @@ You can use the [Weir_Designer.mlapp](https://github.com/Mohammadrezanikoo/Optim
 **a**: Weir Type and Decision Variables  <br /> 
 **b**: Risk Methods<br /> 
 **c**: Status<br /> 
-**d**:Population Multiplier & Generations<br /> 
+**d**: Population Multiplier & Generations<br /> 
 **e**: Model Inputs<br /> 
-**f**: schematic view of the outlet<br /> 
+**f**: Schematic view of the Outlet<br /> 
 **g**: Run <br /> 
 **h**: Results<br /> 
 **i**: Pareto<br /> 
@@ -25,5 +25,6 @@ This repository develops a novel MATLAB® Toolbox application, entitled Release 
 ```
 By: Banafsheh Nematollahi, Mohammad Reza Nikoo (Corresponding Author), Nasser Talebbeydokhti, Gholam Reza Rakhshandehroo, Riyadh Ibrahim Al-Raoush, and Mingjie Chen
 ```
+
 
 For more details refer to the manuscript. 
