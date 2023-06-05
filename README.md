@@ -21,8 +21,9 @@ You can use the [Weir_Designer.mlapp](https://github.com/Mohammadrezanikoo/Optim
 This repository develops a novel MATLAB® Toolbox application, entitled Release Allocation and Weir Design (RAWD), using MATLAB® App Designer, in which optimal outlets are designed for four types of outlets, including an orifice, a proportional, a rectangular, or a triangular weir located downstream of a dam reservoir for multiple flood hydrograph scenarios handling uncertainties in flood conditions by the conditional value-at-risk (CvaR) and nonlinear interval number programming (NINP) techniques, while, satisfying the downstream water demands. 
 </div> 
 
-By: Banafsheh Nematollahi, Mohammad Reza Nikoo (Corresponding Author), Nasser Talebbeydokhti, Gholam Reza Rakhshandehroo, Riyadh Ibrahim Al-Raoush, and Mingjie Chen
 
 ```
-For more details refer to the manuscript. 
+By: Banafsheh Nematollahi, Mohammad Reza Nikoo (Corresponding Author), Nasser Talebbeydokhti, Gholam Reza Rakhshandehroo, Riyadh Ibrahim Al-Raoush, and Mingjie Chen
 ```
+
+For more details refer to the manuscript. 
